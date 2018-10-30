@@ -1,3 +1,4 @@
 Hello World
 How goes it
+inserted another line in file2
 blah blah line 3
